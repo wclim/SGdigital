@@ -1,6 +1,6 @@
 # SGdigital
 
-A small exercise__
+A small exercise<br />
 This project is built using maven
 
 
